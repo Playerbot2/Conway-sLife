@@ -1,0 +1,28 @@
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\bin\Debug\Conway.exe.config
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\bin\Debug\Conway.exe
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\bin\Debug\Conway.pdb
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\obj\Debug\Conway.csprojResolveAssemblyReference.cache
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\obj\Debug\MainWindow.g.cs
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\obj\Debug\App.g.cs
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\obj\Debug\Conway_MarkupCompile.cache
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\obj\Debug\Conway_MarkupCompile.lref
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\obj\Debug\MainWindow.baml
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\obj\Debug\Conway.g.resources
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\obj\Debug\Conway.Properties.Resources.resources
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\obj\Debug\Conway.csproj.GenerateResource.Cache
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\obj\Debug\Conway.exe
+c:\users\alexander huertas\documents\visual studio 14\Projects\Conway\Conway\obj\Debug\Conway.pdb
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\bin\Debug\Conway.exe.config
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\obj\Debug\Conway.exe
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\obj\Debug\Conway.pdb
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\bin\Debug\Conway.exe
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\bin\Debug\Conway.pdb
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\obj\Debug\Conway.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\obj\Debug\App.g.cs
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\obj\Debug\Conway_MarkupCompile.cache
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\obj\Debug\Conway_MarkupCompile.lref
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\obj\Debug\MainWindow.baml
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\obj\Debug\Conway.g.resources
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\obj\Debug\Conway.Properties.Resources.resources
+C:\Users\Alexander Huertas\Desktop\conway\Conway-sLife\Conway\Conway\obj\Debug\Conway.csproj.GenerateResource.Cache

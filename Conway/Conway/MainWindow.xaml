@@ -1,0 +1,19 @@
+﻿<Window x:Class="Conway.MainWindow"
+        Loaded="Window_Loaded"
+        
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Conway"
+        mc:Ignorable="d"
+        Title="Life" Height="500" Width="800">
+    <Grid Background="white">
+            <Grid Name="grid1" Height="500px" Width="500px" MouseDown="grid1_MouseDown"  Background="Black">
+            <Border BorderBrush="AliceBlue" BorderThickness="5" Margin="-8,0,0,0">
+
+            </Border>
+        </Grid>
+        <Button Name="Button1" Content="Run" Margin="6,3,660,414" Click="Button_Click"/>
+    </Grid>
+</Window>
